@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Doc","Update an indexed document using a new document. "],["Script","Update an indexed document using a script. "],["ScriptBuilder","A builder for an update script that can be configured before sending. "]],"type":[["DefaultParams","A default set of script parameters. "]]});
